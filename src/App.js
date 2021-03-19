@@ -8,7 +8,7 @@ import Navigation from "./components/Navigation";
 function App() {
   return (
     <div className="App">
-      <h1>Alexia is gay</h1>
+      <h1>PogU</h1>
       <Navigation />
       <Route path="/" component={Home} />
       <Route path="/about" component={About} />
